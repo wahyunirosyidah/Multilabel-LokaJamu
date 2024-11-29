@@ -1,0 +1,1 @@
+{0: 'Belimbing Sayur', 1: 'Bunga Lawang', 2: 'Jahe', 3: 'Jeruk Nipis', 4: 'Kunyit', 5: 'Lengkuas', 6: 'Mengkudu'}
